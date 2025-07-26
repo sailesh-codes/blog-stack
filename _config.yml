@@ -1,0 +1,5 @@
+title: My Blog
+description: A blog about coding
+theme: minima
+baseurl: "/blog-stack"
+url: "https://sailesh-codes.github.io"
