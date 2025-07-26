@@ -1,5 +1,5 @@
 title: My Blog
 description: A blog about coding
-theme: cayman
+theme: jekyll-theme-cayman
 baseurl: "/blog-stack"
 url: "https://sailesh-codes.github.io"
