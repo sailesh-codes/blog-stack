@@ -1,6 +1,7 @@
 ---
-layout: home
-title: Welcome to My Blog
+layout: default
+title: Home
 ---
 
+# Welcome to My Blog
 This is the homepage of my blog!
