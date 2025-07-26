@@ -1,7 +1,6 @@
 ---
 layout: post
-title: "My First Blog Post"
+title: "My First Blog"
 date: 2025-07-26
 ---
-
-Hello world! This is my first post on my new Jekyll blog.
+Hello! This is my first blog post written in Jekyll.
