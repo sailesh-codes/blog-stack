@@ -1,5 +1,4 @@
 title: My Blog
-markdown: kramdown
 description: A blog about coding
 theme: minima
 baseurl: "/blog-stack"
