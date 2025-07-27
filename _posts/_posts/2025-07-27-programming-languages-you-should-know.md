@@ -2,7 +2,7 @@
 layout: post
 title: "All Programming Languages You Should Know"
 date: 2025-07-27
-categories: [programming, languages]
+categories: [programming]
 ---
 
 There are **hundreds of programming languages** in the world, each with unique purposes, features, and use cases. Here's a breakdown of the **most notable categories and examples**:
