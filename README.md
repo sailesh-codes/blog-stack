@@ -84,10 +84,6 @@ I welcome contributions from the community! Here's how you can help:
 - **Email**: saileshtrn06@gmail.com
 
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
-
 ## 🙏 Acknowledgments
 
 - Open source community for amazing tools and libraries
