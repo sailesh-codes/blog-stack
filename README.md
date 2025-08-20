@@ -1,4 +1,4 @@
-# 🚀 Tech Blog Repository
+#  Tech Blog Repository
 
 Welcome to my comprehensive tech blog covering **Web Development**, **Data Science**, **AI/ML**, and **AI Tools**! This repository contains articles, tutorials, and insights into the latest technologies and tools that are shaping the digital landscape.
 
