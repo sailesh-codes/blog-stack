@@ -12,7 +12,7 @@ Welcome to my comprehensive tech blog covering **Web Development**, **Data Scien
 - [Contributing](#contributing)
 - [Connect With Me](#connect-with-me)
 
-## 🎯 About
+##  About
 
 This blog is a comprehensive resource for developers, data scientists, and AI enthusiasts. Whether you're looking to learn the latest web technologies, dive deep into machine learning algorithms, or discover productivity-boosting AI tools, you'll find valuable content here.
 
